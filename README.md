@@ -32,6 +32,6 @@ The same ESP32 flight controller with four ESCs on the board for 1S brushless mo
 
 The KiCad files (schematics, PCB layout, gerbers, BOM) are in a private repository.
 
-**[Click here to request access](https://github.com/Muhammad-Asif10710/KiCAD-Drone-Showcase/issues/new?template=access-request.yml)**
+**[Click here to request access](https://github.com/Muhammad-Asif10710/KiCAD-Drone-Public/issues/new?template=access-request.yml)**
 
 Fill in the short form. You will be added as a collaborator if the request is approved.
